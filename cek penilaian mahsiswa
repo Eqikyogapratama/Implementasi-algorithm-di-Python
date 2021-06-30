@@ -20,7 +20,6 @@ while ulangprog=="y" or ulangprog=="Y":
     else:
         nilai= "D"
     
-    
     print (nilai)    
 
     ulangprog = input(">> ulang program ? y/t = ")  
